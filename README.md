@@ -2,7 +2,7 @@
 
 I build the geometry layer underneath graphics software — the part that has to be *correct*, not just look right.
 
-Software engineer with a background in Systems Analysis and Physics. Most of what I do is 2D and 3D geometry in the browser: product configurators, CAD-like editors, and the algorithms under them — polygon offsetting and booleans, transformations, hit testing, nesting, numerical tolerance, and the degenerate cases that break naive implementations.
+Eight-plus years in software, with a background in Systems Analysis and Physics. Most of what I do is 2D and 3D geometry in the browser: product configurators, CAD-like editors, and the algorithms under them — polygon offsetting and booleans, transformations, hit testing, nesting, numerical tolerance, and the degenerate cases that break naive implementations.
 
 Geometry that feeds manufacturing has to be right in millimetres, and it fails quietly: output that is wrong by two millimetres still looks exactly like the drawing. So I write the check alongside the algorithm.
 
