@@ -11,7 +11,8 @@ Geometry that feeds manufacturing has to be right in millimetres, and it fails q
 | | |
 |---|---|
 | **[looks-glassy](https://github.com/marcelaSampaio/looks-glassy)** | Refractive UI components for React and Angular. Physics-based SVG displacement maps with a framework-agnostic core and graceful fallbacks. TypeScript, MIT. |
-| **[polygon-offset](https://github.com/marcelaSampaio/polygon-offset)** | Interactive demo of why the obvious offset algorithm is wrong. Moving vertices along the angle bisector puts the result 123.6px from the source polygon when you asked for 68; the robust pass lands at 0.0px error. |
+| **[threejs-product-configurator](https://github.com/marcelaSampaio/threejs-product-configurator)** | A 3D product configurator with no model file. Geometry generated from millimetre parameters, and the same numbers produce the 2D cutting layout with seam allowances measured back to the sewing line. |
+| **[polygon-offset](https://github.com/marcelaSampaio/polygon-offset)** | Polygon offsetting that lands at the distance you asked for — and the function that proves it. TypeScript, zero dependencies, 57 tests. The angle-bisector method most people write is off by 205% on a star; this one by 1e-14. |
 | **[llm-outreach-pipeline](https://github.com/marcelaSampaio/llm-outreach-pipeline)** | Staged Rails pipeline: per-stage feature flags, LLM cost ceilings, swappable providers, and an experiment/variant framework for A/B testing prompts. |
 
 #### Working with
