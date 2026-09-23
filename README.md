@@ -1,10 +1,12 @@
 ### Marcela Sampaio
 
-I build the geometry layer underneath graphics software — the part that has to be *correct*, not just look right.
+Senior full-stack engineer and Tech Lead. I build the parts that have to be *correct*, not just look right.
 
-Eight-plus years in software, with a background in Systems Analysis and Physics. Most of what I do is 2D and 3D geometry in the browser: product configurators, CAD-like editors, and the algorithms under them — polygon offsetting and booleans, transformations, hit testing, nesting, numerical tolerance, and the degenerate cases that break naive implementations.
+Eight-plus years in software, with a background in Systems Analysis and Physics. I build and run production web platforms end to end — TypeScript with Angular or React, Ruby on Rails, Node, Java and Python over PostgreSQL and AWS: API design, background job pipelines, data ingestion, and the retries, idempotency and reconciliation that keep an integration alive unattended.
 
-Geometry that feeds manufacturing has to be right in millimetres, and it fails quietly: output that is wrong by two millimetres still looks exactly like the drawing. So I write the check alongside the algorithm.
+The specialty underneath all of that is 2D and 3D geometry in the browser: product configurators, CAD-like editors, polygon offsetting and booleans, transformations, hit testing, nesting, numerical tolerance, and the degenerate cases that break naive implementations.
+
+Geometry that feeds manufacturing has to be right in millimetres, and it fails quietly: output that is wrong by two millimetres still looks exactly like the drawing. So I write the check alongside the algorithm — and I bring that habit to everything else.
 
 #### Selected work
 
