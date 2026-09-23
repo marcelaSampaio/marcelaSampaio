@@ -1,4 +1,4 @@
-### Marcela Sampaio
+### Marcela Prado
 
 Senior full-stack engineer and Tech Lead. I build the parts that have to be *correct*, not just look right.
 
@@ -23,8 +23,16 @@ Geometry that feeds manufacturing has to be right in millimetres, and it fails q
 
 `TypeScript` `Three.js` `WebGL` `Canvas 2D` `SVG` `Angular` `React` `Ruby on Rails` `Java` `PostgreSQL` `AWS`
 
+#### Writing
+
+I write up the failure modes I have had to design around — idempotency, retries, migrations that cannot take a lock, caches that are allowed to be wrong. 25 posts at [pradom.substack.com](https://pradom.substack.com).
+
+- [Soft Deletes in Rails, By Hand: Visibility Is a Predicate](https://pradom.substack.com/p/soft-deletes-in-rails-by-hand-visibility) — no gems, and a measured rule for when a partial index actually earns its place
+- [Idempotency in Ruby on Rails](https://pradom.substack.com/p/idempotency-in-ruby-on-rails-why) — the written half of `replayable-ingest`
+- [Designing Database Indexes Like a Systems Engineer](https://pradom.substack.com/p/designing-database-indexes-like-a)
+
 #### Elsewhere
 
-Available for freelance work on configurators, CAD-like tooling and geometry algorithms.
+Available for freelance work: product engineering and technical leadership — APIs, job pipelines and integrations built to survive production — plus the geometry and 3D work most teams cannot staff.
 
-[marcela-sampaio.pages.dev](https://marcela-sampaio.pages.dev)
+[marcela-sampaio.pages.dev](https://marcela-sampaio.pages.dev) · [pradom.substack.com](https://pradom.substack.com)
