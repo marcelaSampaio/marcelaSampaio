@@ -35,4 +35,4 @@ I write up the failure modes I have had to design around — idempotency, retrie
 
 Available for freelance work: product engineering and technical leadership — APIs, job pipelines and integrations built to survive production — plus the geometry and 3D work most teams cannot staff.
 
-[marcela-sampaio.pages.dev](https://marcela-sampaio.pages.dev) · [pradom.substack.com](https://pradom.substack.com)
+[marcelasampaio.com](https://marcelasampaio.com) · [pradom.substack.com](https://pradom.substack.com)
